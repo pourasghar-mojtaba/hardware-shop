@@ -1,0 +1,136 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+
+msgid "pay"
+msgstr "پرداخت فاکتور"
+
+msgid "cant_connect_to_bankmellat_getway"
+msgstr "اتصال به درگاه بانک ملت انجام نشد"
+
+msgid "cant_send_parameters_to_bankmellat_getway"
+msgstr "ارسال اطلاعات به درگاه بانک ملت انجام نگرفت"
+
+msgid "cant_get_response_from_bankmellat_getway"
+msgstr "دریافت اطلاعات از درگاه بانک ملت با خطا مواجه شد"
+
+msgid "cant_update_table"
+msgstr "اطلاعات خرید بروزرسانی نشد"
+
+msgid "buy_successed"
+msgstr "پرداخت با موفقیت انجام شد"
+
+msgid "approval_of_final_deposit_in_bank_operations_were_performed"
+msgstr "عملیات تأیید واریز نهایی در بانک انجام نگردید. با پشتیبانی تماس بگیرید"
+
+msgid "transaction_needs_to_follow_up"
+msgstr "تراکنش به پيگيري نیاز دارد"
+
+msgid "transaction_id"
+msgstr "شماره تراکنش"
+
+msgid "money_was_paid_back_operation"
+msgstr "عملیات بازگشت پول پرداختی انجام گردید"
+
+msgid "try_again"
+msgstr "عملیات پرداخت انجام نشد. لطفا دوباره تلاش کنید"
+
+msgid "connect_to_mellat_bank"
+msgstr "در حال اتصال به درگاه بانک ملت"
+
+msgid "buy_not_successed"
+msgstr "پرداخت  انجام نشد"
+
+msgid "buy_result"
+msgstr "نتیجه خرید"
+
+msgid "back_to_buy_page"
+msgstr "ادامه دهید ..."
+
+msgid "order_id"
+msgstr "شماره سفارش"
+
+msgid "confirm_purchase"
+msgstr "تاييد خريد"
+
+msgid "not_exist_pasy_info"
+msgstr "اطلاعاتی برای پرداخت وجود ندارد"
+
+msgid "product_order"
+msgstr "فاکتور فروش محصول"
+
+msgid "search_for"
+msgstr "جستجوی بابت کلمه"
+
+msgid "all_categories"
+msgstr "تمام دسته بندی ها"
+
+msgid "ordered"
+msgstr "سفارش داده شده"
+
+msgid "deposited"
+msgstr "واریز شده"
+
+msgid "posted"
+msgstr "ارسال شده"
+
+msgid "accepted"
+msgstr "تایید شده"
+
+msgid "online_pay"
+msgstr "پرداخت انلاین"
+
+msgid "select_getway"
+msgstr "انتخاب درگاه"
+
+msgid "back"
+msgstr "بازگشت"
+
+msgid "order_detail"
+msgstr "خلاصه سفارش"
+
+msgid "send_to"
+msgstr "ارسال به"
+
+msgid "please_select_bank"
+msgstr "لطفا درگاه بانک انتخاب شود"
+
+msgid "check_your_order"
+msgstr "سفارش خود را بررسی کنید"
+
+msgid "transaction_id"
+msgstr "شماره تراکنش"
+
+msgid "order_id"
+msgstr "شماره سفارش"
+
+msgid "pay_action_not_done"
+msgstr "عملیات پرداخت انجام نشد"
+
+msgid "pay_action_done_successfull"
+msgstr "عملیات پرداخت با موفقیت انجام شد"
+
+msgid "confirm_purchase"
+msgstr "بازگشت به خرید"
+
+msgid "pay_action_not_verified"
+msgstr "عملیات پرداخت از سمت بانک تایید نشد"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+

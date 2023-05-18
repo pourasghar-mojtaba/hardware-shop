@@ -1,0 +1,158 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "catalog_plugin_detail"
+msgstr "پلاگین کاتالوگ ها سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت اترس سیستم"
+
+msgid "catalog_managment"
+msgstr "مدیریت کاتالوگ"
+
+msgid "catalog_list"
+msgstr "لیست کاتالوگ ها"
+
+msgid "add_catalog"
+msgstr "افزودن کاتالوگ"
+
+msgid "edit_catalog"
+msgstr "ویرایش کاتالوگ"
+
+msgid "delete_catalog"
+msgstr "حذف کاتالوگ"
+
+msgid "add_catalog"
+msgstr "افزودن کاتالوگ"
+
+msgid "catalog"
+msgstr "کاتالوگ"
+
+msgid "catalog"
+msgstr "کاتالوگ"
+
+msgid "the_catalog_has_been_saved"
+msgstr "کاتالوگ با موفقیت ذخیره شد"
+
+msgid "the_catalog_could_not_be_saved_Please_try_again"
+msgstr "کاتالوگ ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_catalog"
+msgstr "ویرایش کاتالوگ"
+
+msgid "invalid_catalog"
+msgstr "کاتالوگ مورد نظر موجود نمی باشد"
+
+msgid "the_catalog_has_been_deleted"
+msgstr "کاتالوگ با موفقیت پاک شد"
+
+msgid "the_catalog_could_not_be_deleted_please_try_again"
+msgstr "کاتالوگ حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "catalog_images"
+msgstr "تصاویر کاتالوگ"
+
+msgid "add_file"
+msgstr "افزودن تصویر"
+
+msgid "the_catalog_file_not_saved"
+msgstr "تصویر کاتالوگ ذخیره نشد"
+
+msgid "file_name"
+msgstr "نام فایل"
+
+msgid "mini_detail"
+msgstr "توضیح مختصر"
+
+msgid "file"
+msgstr "فایل"
+
+msgid "companies"
+msgstr "کاتالوگ ها"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "delete_catalog_success"
+msgstr "کاتالوگ با موفقیت حدف شد"
+
+msgid "delete_catalog_not_success"
+msgstr "کاتالوگ حذف نشد"
+
+msgid "url"
+msgstr "آدرس لینک"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

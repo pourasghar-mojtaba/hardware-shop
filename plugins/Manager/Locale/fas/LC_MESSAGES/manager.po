@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "manager_message_plugin_detail"
+msgstr "پلاگین بابت ارسال پیام مدیر عامل در سایت می باشد به همراه عکس مدیر عامل"
+
+msgid "plugin_creator"
+msgstr "شرکت اترس سیستم"
+
+msgid "manager_message_managment"
+msgstr "مدیریت پیام مدیر عامل"
+
+msgid "message_list"
+msgstr "لیست پیام ها"
+
+msgid "add_message"
+msgstr "افزودن پیام"
+
+msgid "edit_message"
+msgstr "ویرایش پیام"
+
+msgid "delete_message"
+msgstr "حذف پیام"
+
+msgid "add_managermessage"
+msgstr "افزودن پیام"
+
+msgid "managermessage"
+msgstr "پیام"
+
+msgid "message"
+msgstr "متن پیام"
+
+msgid "the_managermessage_has_been_saved"
+msgstr "پیام با موفقیت ذخیره شد"
+
+msgid "the_managermessage_could_not_be_saved_Please_try_again"
+msgstr "پیام ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_managermessage"
+msgstr "ویرایش پیام"
+
+msgid "invalid_managermessage"
+msgstr "پیام مورد نظر موجود نمی باشد"
+
+msgid "the_managermessage_has_been_deleted"
+msgstr "پیام با موفقیت پاک شد"
+
+msgid "the_managermessage_could_not_be_deleted_please_try_again"
+msgstr "پیام حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "with_managers"
+msgstr "همراه با مدیران"
+
+msgid "manager"
+msgstr "مدیر"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

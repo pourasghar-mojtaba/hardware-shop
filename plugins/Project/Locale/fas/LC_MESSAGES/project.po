@@ -1,0 +1,209 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "project_plugin_detail"
+msgstr "پلاگین پروژه ها سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت اترس سیستم"
+
+msgid "project_managment"
+msgstr "مدیریت پروژه"
+
+msgid "project_list"
+msgstr "لیست پروژه ها"
+
+msgid "add_project"
+msgstr "افزودن پروژه"
+
+msgid "edit_project"
+msgstr "ویرایش پروژه"
+
+msgid "delete_project"
+msgstr "حذف پروژه"
+
+msgid "add_project"
+msgstr "افزودن پروژه"
+
+msgid "project"
+msgstr "پروژه"
+
+msgid "project"
+msgstr "متن پروژه"
+
+msgid "the_project_has_been_saved"
+msgstr "پروژه با موفقیت ذخیره شد"
+
+msgid "the_project_could_not_be_saved_Please_try_again"
+msgstr "پروژه ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_project"
+msgstr "ویرایش پروژه"
+
+msgid "invalid_project"
+msgstr "پروژه مورد نظر موجود نمی باشد"
+
+msgid "the_project_has_been_deleted"
+msgstr "پروژه با موفقیت پاک شد"
+
+msgid "the_project_could_not_be_deleted_please_try_again"
+msgstr "پروژه حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "project_images"
+msgstr "تصاویر پروژه"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_project_image_not_saved"
+msgstr "تصویر پروژه ذخیره نشد"
+
+msgid "image_name"
+msgstr "نام تصویر"
+
+msgid "mini_detail"
+msgstr "توضیح مختصر"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی"
+
+msgid "the_project_category_has_been_saved"
+msgstr "دسته بندی با موفقیت ذخیره شد"
+
+msgid "the_project_category_could_not_be_saved"
+msgstr "دسته بندی ذخیره نشد"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی"
+
+msgid "invalid_id_for_project_category"
+msgstr "دسته بندی درخواست شده موجود نمی باشد"
+
+msgid "category_includes_project_can_not_be_deleted"
+msgstr "دسته بندی حاوی پروژه می باشد قابل حذف نیست"
+
+msgid "delete_project_category_success"
+msgstr "دسته بندی با موفقیت حذف شد"
+
+msgid "delete_project_category_not_success"
+msgstr "دسته بندی حذف نشد"
+
+msgid "category_managment"
+msgstr "مدیرت دسته بندی"
+
+msgid "category_list"
+msgstr "لیست دسته بندی پروژه"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی پروژه"
+
+msgid "slug"
+msgstr "عنوان انگلیسی"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "parent"
+msgstr "دسته بندی والد"
+
+msgid "with_out_parent"
+msgstr "بدون دسته بندی"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی پروژه"
+
+msgid "category"
+msgstr "دسته بندی"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "projects"
+msgstr "نمونه کارها"
+
+msgid "last_projects"
+msgstr "آخرین نمونه کارها"
+
+msgid "delete_category"
+msgstr "حذف دسته بندی پروژه"
+
+msgid "to_order_call_with_us"
+msgstr "بابت سفارش پروژه با ما تماس بگیرید"
+
+msgid "little_time_little_cost"
+msgstr "با کمترین هزینه و کمترین زمان"
+
+msgid "order_project"
+msgstr "سفارش پروژه"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

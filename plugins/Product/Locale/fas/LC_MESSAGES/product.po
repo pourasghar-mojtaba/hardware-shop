@@ -1,0 +1,630 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "product_plugin_detail"
+msgstr "پلاگین محصولات سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت پیکو سایت"
+
+msgid "product_managment"
+msgstr "مدیریت محصول"
+
+msgid "product_list"
+msgstr "لیست محصول ها"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "delete_product"
+msgstr "حذف محصول"
+
+msgid "add_product"
+msgstr "افزودن محصول"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "product"
+msgstr "متن محصول"
+
+msgid "the_product_has_been_saved"
+msgstr "محصول با موفقیت ذخیره شد"
+
+msgid "the_product_could_not_be_saved_Please_try_again"
+msgstr "محصول ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_product"
+msgstr "ویرایش محصول"
+
+msgid "invalid_product"
+msgstr "محصول مورد نظر موجود نمی باشد"
+
+msgid "the_product_has_been_deleted"
+msgstr "محصول با موفقیت پاک شد"
+
+msgid "the_product_could_not_be_deleted_please_try_again"
+msgstr "محصول حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "product_images"
+msgstr "تصاویر محصول"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_product_image_not_saved"
+msgstr "تصویر محصول ذخیره نشد"
+
+msgid "image_name"
+msgstr "نام تصویر"
+
+msgid "mini_detail"
+msgstr "توضیح مختصر"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی"
+
+msgid "the_product_category_has_been_saved"
+msgstr "دسته بندی با موفقیت ذخیره شد"
+
+msgid "the_product_category_could_not_be_saved"
+msgstr "دسته بندی ذخیره نشد"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی"
+
+msgid "invalid_id_for_product_category"
+msgstr "دسته بندی درخواست شده موجود نمی باشد"
+
+msgid "category_includes_product_can_not_be_deleted"
+msgstr "دسته بندی حاوی محصول می باشد قابل حذف نیست"
+
+msgid "delete_product_category_success"
+msgstr "دسته بندی با موفقیت حذف شد"
+
+msgid "delete_product_category_not_success"
+msgstr "دسته بندی حذف نشد"
+
+msgid "category_managment"
+msgstr "مدیرت دسته بندی"
+
+msgid "category_list"
+msgstr "لیست دسته بندی ها"
+
+msgid "add_category"
+msgstr "افزودن دسته بندی"
+
+msgid "slug"
+msgstr "عنوان انگلیسی"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "parent"
+msgstr "دسته بندی والد"
+
+msgid "with_out_parent"
+msgstr "بدون دسته بندی"
+
+msgid "edit_category"
+msgstr "ویرایش دسته بندی"
+
+msgid "category"
+msgstr "دسته بندی"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "products"
+msgstr "محصولات"
+
+msgid "last_products"
+msgstr "آخرین محصولات"
+
+msgid "order_managment"
+msgstr "مديريت سفارشات"
+
+msgid "property"
+msgstr "مشخصات"
+
+msgid "the_product_properties_not_saved"
+msgstr "اطلاعات جدول مشخصات ذخیره نشد"
+
+msgid "order_list"
+msgstr "لیست سفارشات"
+
+msgid "delete_order"
+msgstr "حذف سفارش"
+
+msgid "orderitems_list"
+msgstr "لیست محصولات فاکتور"
+
+msgid "print_orderitems"
+msgstr "پرینت محصولات فاکتور"
+
+msgid "discounttype_list"
+msgstr "ليست انواع تخفيف"
+
+msgid "add_discounttype"
+msgstr "افزودن نوع تخفيف"
+
+
+msgid "discounttype_managment"
+msgstr "مديريت انواع تخفيف"
+
+msgid "discountcoupons_managment"
+msgstr "مديريت کپن تخفيف"
+
+msgid "productdiscounts_managment"
+msgstr "مديريت تخفيف محصولات"
+
+msgid "code"
+msgstr "کد"
+
+msgid "discountcoupon_list"
+msgstr "ليست کپن هاي تخفيف"
+
+msgid "discountcoupon_list"
+msgstr "ليست کپن هاي تخفيف"
+
+msgid "add_discountcoupon"
+msgstr "افزودن کپن تخفيف"
+
+msgid "edit_discountcoupon"
+msgstr "ویرایش کپن تخفيف"
+
+msgid "delete_discountcoupon"
+msgstr "حذف کپن تخفيف"
+
+msgid "discounttype_list"
+msgstr "ليست انواع تخفيفات"
+
+msgid "edit_discounttype"
+msgstr "ويرايش نوع تخفيف"
+
+msgid "delete_discounttype"
+msgstr "حذف نوع تخفیف"
+
+msgid "start_date"
+msgstr "تاريخ شروع"
+
+msgid "end_date"
+msgstr "تاريخ پايان"
+
+msgid "productdiscount_list"
+msgstr "ليست تخفيفات محصولات"
+
+msgid "add_productdiscount"
+msgstr "درج تخفيف براي محصول"
+
+msgid "edit_productdiscount"
+msgstr "ويرايش تخفيف محصول"
+
+msgid "delete_productdiscount"
+msgstr "حذف تخفيف محصول"
+
+msgid "the_Productdiscount_has_been_saved"
+msgstr "تخفيف براي محصول درج شد"
+
+msgid "the_Productdiscount_has_been_deleted"
+msgstr "تخفيف محصول با موفقيت حذف شد"
+
+msgid "add_productdiscounts"
+msgstr "افزودن تخفيف محصول"
+
+msgid "the_discountcoupon_has_been_saved"
+msgstr "درج کپن ها با موفقيت انجام شد"
+
+msgid "the_discountcoupon_has_been_deleted"
+msgstr "حذف کپن تخفيف با موفقيت انجام شد"
+
+msgid "the_discounttype_has_been_saved"
+msgstr "درج نوع جديد تخفيف با موفقيت انجام شد"
+
+msgid "the_discounttype_has_been_deleted"
+msgstr "حذف نوع تخفيف با موفقيت انجام شد"
+
+msgid "discountcoupon_list"
+msgstr "ليست کپن هاي تخفيف"
+
+msgid "add_discountcoupon"
+msgstr "افزودن کپن تخفيف"
+
+msgid "delete_discountcoupon"
+msgstr "حذف کپن تخفيف"
+
+msgid "discountcoupon_managment"
+msgstr "مدیریت کپن تخفیف"
+
+msgid "productdiscount_managment"
+msgstr "مدیریت تخفیف محصولات"
+
+msgid "delete_discountcoupon"
+msgstr "حذف کپن تخفیف"
+
+msgid "orderitems_managment"
+msgstr "مدیریت محصولات فاکتور"
+
+msgid "delete_category"
+msgstr "حذف دسته بندی"
+
+msgid "tag"
+msgstr "برچسب"
+
+msgid "add_new_tag"
+msgstr "افزودن برچسب جدید"
+
+msgid "property"
+msgstr "مشخصات"
+
+msgid "price"
+msgstr "قیمت"
+
+
+msgid "refid"
+msgstr "شماره پیگیری"
+
+msgid "order_id"
+msgstr "شماره سفارش"
+
+msgid "bank_name"
+msgstr "نام بانک"
+
+msgid "not_exist_this_order"
+msgstr "چنین شماره سفارشی وجود ندارد"
+
+msgid "full_name"
+msgstr "نام و نام خانوادگی"
+
+msgid "phone"
+msgstr "تلفن"
+
+msgid "post_code"
+msgstr "کد پستی"
+
+msgid "mobile"
+msgstr "تلفن همراه"
+
+msgid "address"
+msgstr "آدرس"
+
+msgid "print"
+msgstr "چاپ"
+
+msgid "show_order_product"
+msgstr "محصولات فاکتور"
+
+msgid "checking"
+msgstr "در حال بررسی "
+
+msgid "item_count"
+msgstr "تعداد"
+
+msgid "bank_message"
+msgstr "متن پيام بانک"
+
+msgid "show_order_product"
+msgstr "محصولات فاکتور"
+
+msgid "sum_price"
+msgstr "جمع مبلغ"
+
+msgid "count"
+msgstr "تعداد"
+
+msgid "order_item_list"
+msgstr "لیست محصولات فاکتور شماره "
+
+msgid "product_order_info"
+msgstr "اطلاعات خريد محصولات"
+
+msgid "rial"
+msgstr "ریال"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "product_title"
+msgstr "عنوان محصول"
+
+msgid "row"
+msgstr "ردیف"
+
+msgid "base_price"
+msgstr "قيمت پايه"
+
+msgid "sum_count"
+msgstr "تعداد کل"
+
+msgid "customr_name"
+msgstr "نام مشتری"
+
+
+msgid "discounttype_list"
+msgstr "ليست انواع تخفيف"
+
+msgid "add_discounttype"
+msgstr "افزودن نوع تخفيف"
+
+
+msgid "percent"
+msgstr "درصد"
+
+msgid "amount"
+msgstr "مبلغ"
+
+msgid "name"
+msgstr "نام"
+
+msgid "description"
+msgstr "توضيحات"
+
+msgid "discounttype_managment"
+msgstr "مديريت انواع تخفيف"
+
+msgid "discountcoupons_managment"
+msgstr "مديريت کپن تخفيف"
+
+msgid "productdiscounts_managment"
+msgstr "مديريت تخفيف محصولات"
+
+msgid "code"
+msgstr "کد"
+
+msgid "discountcoupon_list"
+msgstr "ليست کپن هاي تخفيف"
+
+msgid "Discountcoupon_list"
+msgstr "ليست کپن هاي تخفيف"
+
+msgid "add_discountcoupon"
+msgstr "افزودن کپن تخفيف"
+
+msgid "delete_Discountcoupon"
+msgstr "حذف کپن تخفيف"
+
+msgid "discounttype_list"
+msgstr "ليست انواع تخفيفات"
+
+msgid "edit_discounttype"
+msgstr "ويرايش نوع تخفيف"
+
+msgid "start_date"
+msgstr "تاريخ شروع"
+
+msgid "end_date"
+msgstr "تاريخ پايان"
+
+msgid "productdiscount_list"
+msgstr "ليست تخفيفات محصولات"
+
+msgid "add_productdiscount"
+msgstr "درج تخفيف براي محصول"
+
+msgid "edit_productdiscount"
+msgstr "ويرايش تخفيف محصول"
+
+msgid "delete_productdiscount"
+msgstr "حذف تخفيف محصول"
+
+msgid "the_Productdiscount_has_been_saved"
+msgstr "تخفيف براي محصول درج شد"
+
+msgid "the_Productdiscount_has_been_deleted"
+msgstr "تخفيف محصول با موفقيت حذف شد"
+
+msgid "add_productdiscounts"
+msgstr "افزودن تخفيف محصول"
+
+msgid "the_Discountcoupon_has_been_saved"
+msgstr "درج کپن ها با موفقيت انجام شد"
+
+msgid "the_Discountcoupon_has_been_deleted"
+msgstr "حذف کپن تخفيف با موفقيت انجام شد"
+
+msgid "the_discounttype_has_been_saved"
+msgstr "درج نوع جديد تخفيف با موفقيت انجام شد"
+
+msgid "the_discounttype_has_been_deleted"
+msgstr "حذف نوع تخفيف با موفقيت انجام شد"
+
+msgid "the_discounttype_could_not_be_saved_please_try_again"
+msgstr "نوع تخفیف ذخیره نشد،دوباره تلاش نمایید"
+
+msgid "the_discounttype_has_been_saved"
+msgstr "نوع تخفیف با موفقیت ذخیره شد"
+
+msgid "discounttype_name"
+msgstr "نام تخفیف"
+
+msgid "product_title"
+msgstr "عنوان محصول"
+
+msgid "cant_to_delete_product_in_order"
+msgstr "امکان حذف محصول نیست در سفارش وجود دارد"
+
+msgid "tag_search"
+msgstr "جستجوی برچسب"
+
+msgid "producttag_managment"
+msgstr "مدیریت برچسب محصول"
+
+msgid "shop"
+msgstr "فروشگاه"
+
+msgid "add_to_basket"
+msgstr "افزودن به سبد خرید"
+
+msgid "product_id"
+msgstr "کد محصول"
+
+msgid "the_product_add_to_basket_success"
+msgstr "با موفقیت به سبد خرید اضافه شد!"
+
+msgid "compare"
+msgstr "مقایسه"
+
+msgid "added_to_compare_table"
+msgstr "به جدول مقایسه اضافه شد!"
+
+msgid "product"
+msgstr "محصول"
+
+msgid "share"
+msgstr "اشتراک"
+
+msgid "detail"
+msgstr "جزئیات"
+
+msgid "pay"
+msgstr "پرداخت"
+
+msgid "payed"
+msgstr "پرداخت شده است"
+
+msgid "basket"
+msgstr "سبد خرید"
+
+msgid "dont_exist_this_product"
+msgstr "این محصول وجود ندارد"
+
+msgid "end_sale"
+msgstr "پایان خرید"
+
+msgid "continue_sale"
+msgstr "ادامه خرید"
+
+msgid "num"
+msgstr "تعداد"
+
+msgid "sum_price"
+msgstr "مجموع مبالغ"
+
+msgid "other_price"
+msgstr "سایر هزینه ها"
+
+msgid "sum_item"
+msgstr "جمع اقلام"
+
+msgid "online_pay"
+msgstr "پرداخت آنلاین"
+
+msgid "select_bank"
+msgstr "بانک انتخاب شده"
+
+msgid "most_sales_products"
+msgstr "پر فروش ترین محصولات"
+
+msgid "category"
+msgstr "دسته بندی"
+
+msgid "technical_specifications"
+msgstr "مشخصات فنی"
+
+msgid "sum"
+msgstr "مجموع"
+
+msgid "your_basket_is_empty"
+msgstr "سبد خرید خالی می باشد"
+
+msgid "categories"
+msgstr "دسته بندی ها"
+
+msgid "not_exist_orders_information"
+msgstr "اطلاعلات سفارش موجود نمی باشد"
+
+msgid "ordered"
+msgstr "سفارش داده شده"
+
+msgid "deposited"
+msgstr "تایید شده"
+
+msgid "posted"
+msgstr "ارسال شده"
+
+msgid "accepted"
+msgstr "دریافت شده"
+
+msgid "checking"
+msgstr "در حال بررسی"
+
+msgid "not_accepted"
+msgstr "دریافت نشد"
+
+msgid "send_cost"
+msgstr "هزینه ارسال"
+
+msgid "save_order_not_sucessed"
+msgstr "عملیات پرداخت انجام نشد"
+
+msgid "register_order"
+msgstr "ثبت سفارش"
+
+msgid "order_saved_successfully"
+msgstr "سفارش با موفقیت ثبت شد"
+
+msgid "order_doesnt_saved"
+msgstr "سفارش ثبت نشد"
+
+msgid "order_detail"
+msgstr "جزییات سفارش"
+
+msgid "not_valid_order_id"
+msgstr "شماره سفارش صحیح نمیباشد"
+
+msgid "create_factor"
+msgstr "ایجاد فاکتور"
+
+msgid "user_description"
+msgstr "توضیحات کاربر"
+
+msgid "admin_description"
+msgstr "توضیحات ادمین"
+
+msgid "items_count"
+msgstr "تعداد کل"
+
+msgid "factor_pdf"
+msgstr "فاکتور PDF"
+
+msgid "the_order_has_been_saved"
+msgstr "سفارش با موفقت ذخیره شد"
+
+msgid "the_order_could_not_be_saved"
+msgstr "سفارش ذخیره نشد"
+
+msgid "first_registered"
+msgstr "ثبت اولیه"
+
+msgid "factor_sended"
+msgstr "فاکتور ارسال شده"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""

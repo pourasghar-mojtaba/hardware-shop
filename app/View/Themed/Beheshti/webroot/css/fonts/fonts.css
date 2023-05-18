@@ -1,0 +1,183 @@
+/* Iran Yekan Font */
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebboldfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebboldfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebboldfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebboldfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebthinfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebthinfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebthinfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebthinfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../../fonts/iranyekan/eot/iranyekanweblightfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanweblightfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanweblightfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanweblightfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebregularfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebregularfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebregularfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebregularfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebmediumfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebmediumfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebmediumfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebmediumfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebextraboldfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebextraboldfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebextraboldfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebextraboldfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 850;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebblackfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebblackfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebblackfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebblackfanum.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: iranyekan;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../../fonts/iranyekan/eot/iranyekanwebextrablackfanum.eot');
+	src: url('../../fonts/iranyekan/eot/iranyekanwebextrablackfanum.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/iranyekan/woff/iranyekanwebextrablackfanum.woff') format('woff'),
+		 url('../../fonts/iranyekan/ttf/iranyekanwebextrablackfanum.ttf') format('truetype');
+}
+
+
+/* Iran sans Font */
+@font-face {
+    font-family: 'iransans';
+    src: url('../../fonts/iransans/IRANSansXV.woff') format('woff-variations'),
+    url('../../fonts/iransans/IRANSansXV.woff') format('woff');
+    font-weight: 100 900;
+    font-display: fallback;
+
+}
+
+/* Dana Font */
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 100;
+	src: url('../../fonts/dana/eot/dana-fanum-thin.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-thin.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-thin.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-thin.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 200;
+	src: url('../../fonts/dana/eot/dana-fanum-extralight.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-extralight.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-extralight.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-extralight.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 300;
+	src: url('../../fonts/dana/eot/dana-fanum-light.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-light.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-light.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-light.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../../fonts/dana/eot/dana-fanum-regular.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-regular.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-regular.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-regular.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 500;
+	src: url('../../fonts/dana/eot/dana-fanum-medium.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-medium.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-medium.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-medium.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 600;
+	src: url('../../fonts/dana/eot/dana-fanum-demibold.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-demibold.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-demibold.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-demibold.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 700;
+	src: url('../../fonts/dana/eot/dana-fanum-bold.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-bold.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-bold.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-bold.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 800;
+	src: url('../../fonts/dana/eot/dana-fanum-extrabold.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-extrabold.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-extrabold.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-extrabold.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 850;
+	src: url('../../fonts/dana/eot/dana-fanum-ultrabold.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-ultrabold.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-ultrabold.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-ultrabold.ttf') format('truetype');
+}
+@font-face {
+	font-family: dana;
+	font-style: normal;
+	font-weight: 900;
+	src: url('../../fonts/dana/eot/dana-fanum-black.eot');
+	src: url('../../fonts/dana/eot/dana-fanum-black.eot?#iefix') format('embedded-opentype'), 
+		 url('../../fonts/dana/woff/dana-fanum-black.woff') format('woff'),
+		 url('../../fonts/dana/ttf/dana-fanum-black.ttf') format('truetype');
+}

@@ -1,0 +1,708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "name"
+msgstr "نام کامل"
+
+msgid "email"
+msgstr "ایمیل"
+
+msgid "confirm_email"
+msgstr "تکرار ایمیل"
+
+msgid "password"
+msgstr "رمز عبور"
+
+msgid "confirm_password"
+msgstr "تکرار رمز عبور"
+
+msgid "add_user_successfully"
+msgstr "کاربر با موفقیت ثبت شد"
+
+msgid "add_user_not_successfully"
+msgstr "کاربر ثبت نشد"
+
+msgid "register"
+msgstr "ثبت نام"
+
+msgid "login"
+msgstr "ورود"
+
+msgid "logout"
+msgstr "خروج"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "remember_me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "forget_password"
+msgstr "رمزم را فراموش کرده ام"
+
+msgid "please_login_with_your_email_and_password"
+msgstr "لطفا با نشانی ایمیل و رمز عبور وارد پنل شويد"
+
+msgid "panel_name"
+msgstr "پنل مديريت سايت"
+
+msgid "panel_welcome"
+msgstr "Welcome to UnidRoid Admin"
+
+msgid "insert_captcha"
+msgstr "تصویر امنیتی را وارد کنید"
+
+msgid "captcha"
+msgstr "تصویر امنیتی"
+
+msgid "alert"
+msgstr "خطا"
+
+msgid "insert_information"
+msgstr "اطلاعات را وارد نمایید"
+
+msgid "insert_captcha"
+msgstr "تصویر امنیتی را وارد نمایید"
+
+msgid "please_enter_valid_username_and_password"
+msgstr "لطفا نام کاربری و رمز عبور صحیح را وارد نمایید"
+
+msgid "can_not_login_in_admin"
+msgstr "شما نمی توانید وارد پنل ادمین شوید"
+
+msgid "edit"
+msgstr "ویرایش"
+
+msgid "exit"
+msgstr "خروج"
+
+msgid "main_navigation"
+msgstr "منوی اصلی"
+
+msgid "dashboard"
+msgstr "داشبورد"
+
+msgid "permision_and_users"
+msgstr "سطح دسترسی و کاربران"
+
+msgid "role_managment"
+msgstr "مدیریت نقش ها"
+
+msgid "role_parivacy_managment"
+msgstr "مدیریت دسترسی نقش ها"
+
+msgid "user_managment"
+msgstr "مدیریت کاربران"
+
+msgid "database_managment"
+msgstr "مديريت پايگاه داده"
+
+msgid "welcome_to_site_panel"
+msgstr "به پنل مدیریت سایت خوش آمدید"
+
+msgid "home"
+msgstr "خانه"
+
+msgid "company_name"
+msgstr "شرکت اترس سیستم"
+
+msgid "roles"
+msgstr "نقش ها"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "search"
+msgstr "جستجو"
+
+msgid "role"
+msgstr "نقش"
+
+msgid "status"
+msgstr "وضعيت"
+
+msgid "created"
+msgstr "تاريخ"
+
+msgid "delete"
+msgstr "حذف"
+
+msgid "permission"
+msgstr "دسترسي"
+
+msgid "active"
+msgstr "فعال"
+
+msgid "inactive"
+msgstr "غير فعال"
+
+msgid "r_u_sure"
+msgstr "آیا شما مطمئن هستید؟"
+
+msgid "records_per_page"
+msgstr "تعداد نمایش ها در صفحه"
+
+msgid "next"
+msgstr "بعدي"
+
+msgid "prev"
+msgstr "قبلي"
+
+msgid "enter_role"
+msgstr "نقش را وارد نمایید"
+
+msgid "save"
+msgstr "ذخیره اطلاعات"
+
+msgid "the_role_has_been_saved"
+msgstr "نقش با موفقیت ذخیره شد"
+
+msgid "the_role_could_not_be_saved_Please_try_again"
+msgstr "نقش ایجاد نشد ، لطفا دوباره تلاش نمایید."
+
+msgid "message"
+msgstr "پیغام"
+
+msgid "invalid_role"
+msgstr "چنین نقشی وجود ندارد"
+
+msgid "edit_role"
+msgstr "ویرایش نقش"
+
+msgid "add_role"
+msgstr "افزودن نقش"
+
+msgid "the_role_has_been_deleted"
+msgstr "نقش با موفقیت حذف شد"
+
+msgid "the_role_could_not_be_deleted_please_try_again"
+msgstr "نقش حذف نگردید ، دوباره تلاش نمایید"
+
+msgid "invalid_permision"
+msgstr "شما حق دسترسي به اين قسمت را نداريد!"
+
+msgid "add_permission_notsuccess"
+msgstr "ایجاد دسترسی انجام نشد"
+
+msgid "delete_permission_notsuccess"
+msgstr "دسترسی برداشته نشد"
+
+msgid "permisions"
+msgstr "دسترسی ها"
+
+msgid "part"
+msgstr "بخش"
+
+msgid "action"
+msgstr "عمل"
+
+msgid "to"
+msgstr "به"
+
+msgid "user_name"
+msgstr "نام کاربری"
+
+msgid "users"
+msgstr "کاربران"
+
+msgid "add_user"
+msgstr "افزودن کاربر"
+
+msgid "woman"
+msgstr "زن"
+
+msgid "man"
+msgstr "مرد"
+
+msgid "sex"
+msgstr "جنسیت"
+
+msgid "enter_name"
+msgstr "نام را وارد نمایید"
+
+msgid "enter_user_name"
+msgstr "نام کاربری را وارد نمایید"
+
+msgid "enter_password"
+msgstr "رمز عبور را وارد نمایید"
+
+msgid "enter_email"
+msgstr "ایمیل را وارد نمایید"
+
+msgid "invalid_user"
+msgstr "چنین کاربری وجود ندارد"
+
+msgid "the_user_has_been_saved"
+msgstr "کاربر با موفقیت ذخیره شد"
+
+msgid "the_user_could_not_be_saved_Please_try_again"
+msgstr "کاربر ذخیره نشد دوباره تلاش نمایید"
+
+msgid "edit_user"
+msgstr "ویرایش کاربر"
+
+msgid "list_of_plugins"
+msgstr "لیست پلاگین های سایت"
+
+msgid "plugin"
+msgstr "پلاگین"
+
+msgid "unistall"
+msgstr "حذف"
+
+msgid "install"
+msgstr "نصب کردن"
+
+msgid "create_from"
+msgstr "طراحی شده توسط"
+
+msgid "detail"
+msgstr "توضیحات"
+
+msgid "the_plugin_has_been_activated"
+msgstr "پلاگین با موفقیت فعال شد"
+
+msgid "the_plugin_has_been_noactivated"
+msgstr "پلاگین فعال نشد"
+
+msgid "the_plugin_has_been_inactivated"
+msgstr "پلاگین با موفقیت غیر فعال شد"
+
+msgid "the_plugin_has_been_noinactivated"
+msgstr "پلاگین غیرفعال نشد"
+
+msgid "the_plugin_invalid"
+msgstr "پلاگین معتبر نمی باشد"
+
+msgid "exist_error_on_install_query"
+msgstr "در کوئری نصب خطا وجود دارد"
+
+msgid "the_plugin_has_been_installed"
+msgstr "پلاگین با موفقیت نصب شد"
+
+msgid "the_plugin_not_saved"
+msgstr "پلاگین ذخیره نشد"
+
+msgid "exist_error_on_uninstall_query"
+msgstr "در کوئری حذف خطا وجود دارد"
+
+msgid "the_plugin_not_deleted"
+msgstr "پلاگین حذف نشد"
+
+msgid "the_plugin_has_been_uninstalled"
+msgstr "پلاگین با موفقیت حذف شد"
+
+msgid "plugin_managment"
+msgstr "مدیریت پلاگین"
+
+msgid "the_menu_not_saved"
+msgstr "منو ذخيره نشد"
+
+msgid "the_menu_not_deleted"
+msgstr "منو حذف نگرديد"
+
+msgid "page_managment"
+msgstr "مدیریت صفحات"
+
+msgid "about_us"
+msgstr "درباره ما"
+
+msgid "contact_us"
+msgstr "تماس با ما"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "keyword"
+msgstr "کلمات کلیدی"
+
+msgid "meta"
+msgstr "متا تگ"
+
+msgid "body"
+msgstr "متن صفحه"
+
+msgid "separate_with_sharp"
+msgstr "لطفا با # جدا کنید"
+
+msgid "edit_page"
+msgstr "ویرایش صفحه"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "invalid_user"
+msgstr "کاربر نا معتبر می باشد"
+
+msgid "the_user_has_been_deleted"
+msgstr "کاربر با موفقیت حذف شد"
+
+msgid "the_user_could_not_be_deleted_please_try_again"
+msgstr "کاربر حذف نشد دوباره تلاش کنید"
+
+msgid "pages"
+msgstr "صفحات"
+
+msgid "site_setting"
+msgstr "تنظيمات سايت"
+
+msgid "the_setting_has_been_saved"
+msgstr "تنظيمات با موفقيت ذخيره شد"
+
+msgid "the_setting_could_not_be_saved"
+msgstr "تنظيمات ذخيره نشد"
+
+msgid "keywords"
+msgstr "کلمات کليدي"
+
+msgid "description"
+msgstr "توضيحات"
+
+msgid "separate_with_virgol"
+msgstr "با ويرگول , جدا نماييد"
+
+msgid "register_with_email"
+msgstr "ثبت نام از طریق ایمیل"
+
+msgid "register_with_sms"
+msgstr "ثبت نام از طریق اس ام اس"
+
+msgid "register_type"
+msgstr "نحوه ثبت نام"
+
+msgid "enter_mobile"
+msgstr "شماره تلفن همراه را وارد نمایید"
+
+msgid "confirmation_mobile"
+msgstr "تایید شماره همراه و فعال سازی حساب کاربری "
+
+msgid "active_key"
+msgstr "کد فعالسازی"
+
+msgid "ok"
+msgstr "تایید"
+
+msgid "register_not_successfully"
+msgstr "عملیات ثبت نام انجام نشد"
+
+msgid "edit_all_info"
+msgstr "ويرايش پروفايل"
+
+msgid "name"
+msgstr "نام و نام خانوادگی"
+
+msgid "user_name"
+msgstr "نام حساب کاربری"
+
+msgid "email"
+msgstr "ایمیل"
+
+msgid "edit_address"
+msgstr "ویرایش آدرس"
+
+msgid "edit_password"
+msgstr "ویرایش رمز عبور"
+
+msgid "invalid_name"
+msgstr "نام و نام خانوادگی را صحیح وارد نمایید"
+
+msgid "invalid_id_for_user"
+msgstr "کاربر ارسال شده صحیح نمیباشد"
+
+msgid "edit_profile_notsuccessfull"
+msgstr "ویرایش مشخصات انجام نشد"
+
+msgid "edit_profile_successfull"
+msgstr "ویرایش مشخصات با موفقیت انجام شد"
+
+msgid "not_valid_password"
+msgstr "رمز عبور قبلی وارد شده صحیح نمیباشد"
+
+msgid "edit_password_successfull"
+msgstr "تغییر رمز عبور با موفقیت انجام شد"
+
+msgid "old_password"
+msgstr "رمز عبور قبلی"
+
+msgid "new_password"
+msgstr "رمز عبور جدید"
+
+msgid "repeat_new_password"
+msgstr "تکرار رمز عبور جدید"
+
+msgid "save_changes"
+msgstr "ذخیره تغییرات"
+
+msgid "edit_password_notsuccessfull"
+msgstr "تغییر رمز عبور انجام نشد"
+
+msgid "file_manager"
+msgstr "مدیریت فایل"
+
+msgid "menu"
+msgstr "منو"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "contact_us_detail"
+msgstr "به دنبال بهترین محصولات آهن و استیل هستید با ما در ارتباط باشد"
+
+msgid "company_address_street"
+msgstr "خ طالقانی. خ ملک الشعرای بهار شمالی"
+
+msgid "company_address"
+msgstr "ساختمان ایران بک- طبقه ۲- واحد۱۱"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "the_page_has_been_saved"
+msgstr "صفحه با موفقیت ذخیره شد"
+
+msgid "the_page_could_not_be_saved"
+msgstr "صفحه ذخیره نشد"
+
+msgid "contact_messages"
+msgstr "پیامهای تماس با ما"
+
+msgid "subject"
+msgstr "عنوان"
+
+msgid "contactmessages"
+msgstr "لیست پیامها"
+
+msgid "Send_request"
+msgstr "ارسال درخواست"
+
+msgid "send_message_not_successfully"
+msgstr "ارسال پیام انجام نشد"
+
+msgid "send_message_successfully"
+msgstr "ارسال پیام با موفقیت انجام شد ، با شما تماس حاصل خواهد شد"
+
+msgid "incorrect_captcha"
+msgstr "تصویر امنیتی نادرست است"
+
+msgid "invalid_message"
+msgstr "شماره پیام نادرست است"
+
+msgid "the_message_has_been_deleted"
+msgstr "پیام با موفقیت حذف شد"
+
+msgid "the_message_could_not_be_deleted_please_try_again"
+msgstr "پیام حذف نشد"
+
+msgid "all_users"
+msgstr "تعداد کل کاربران"
+
+msgid "all_blogs"
+msgstr "تعداد کل مقالات"
+
+msgid "blogs_in_30_days"
+msgstr "مقالات منتشر شده در 30 روز"
+
+msgid "users_in_30_days"
+msgstr "کاربران ثبت نام شده در 30 روز"
+
+msgid "userlogins_in_7_days"
+msgstr "کاربران لاگین شده در ادمین در 7 روز گذشته"
+
+msgid "last_projects"
+msgstr "آخرین پروژه ها"
+
+msgid "view_all_projects"
+msgstr "نمایش همه پروژه ها"
+
+msgid "entered_hosts"
+msgstr "ورودی های سایت"
+
+msgid "site_information"
+msgstr "اطلاعات سایت"
+
+msgid "siteinformations"
+msgstr "ورودی های سایت"
+
+msgid "referer_url"
+msgstr "لینک ورودی"
+
+msgid "referer_host"
+msgstr "هاست ورودی"
+
+msgid "browser"
+msgstr "مرورگر"
+
+msgid "ip"
+msgstr "آدرس ای پی"
+
+msgid "request_uri"
+msgstr "صفحه دیده شده"
+
+msgid "last_blogs"
+msgstr "آخرین مقالات"
+
+msgid "view_all_blogs"
+msgstr "نمایش همه مقالات"
+
+msgid "language"
+msgstr "زبان"
+
+msgid "more"
+msgstr "بیشتر"
+
+msgid "rial"
+msgstr "ریال"
+
+msgid "info"
+msgstr "اطلاعات"
+
+msgid "warning"
+msgstr "هشدار"
+
+msgid "close"
+msgstr "بستن"
+
+msgid "edit_address_successfull"
+msgstr "آدرس با موفقیت ذخیره شد"
+
+msgid "little_about"
+msgstr "شرکت تجارت و مدیریت ارمغان سلامت ، تامین کننده انواع تجهیزات پزشکی شامل، ست های ترزیقی، محصولات مراقبت از زخم، مکملهای ورزشی و استومی ها، با سابقه فعالیت درخشان در عرصه صنایع پزشکی کشور به خدمت رسانی مشغول است "
+
+msgid "address"
+msgstr "میدان ولیعصر،ابتدای بلوار کشاورز،پلاک 31،طبقه سوم شمالی"
+
+msgid "links"
+msgstr "لینک های مفید"
+
+msgid "call_with_us"
+msgstr "با ما تماس بگیرید"
+
+msgid "send_email_to_us"
+msgstr "به ما ایمیل بزنید"
+
+msgid "follow_us"
+msgstr "ما را دنبال کنید"
+
+msgid "send"
+msgstr "ارسال"
+
+msgid "company_name"
+msgstr "شرکت تجارت و مدیریت ارمغان سلامت"
+
+msgid "granting_sales_agency"
+msgstr "استخدام و همکاری"
+
+msgid "representative_of_world_famous_brands"
+msgstr "نماینده برندهای مطرح جهانی"
+
+msgid "pre_purchase_advice"
+msgstr "مشاوره قبل از خرید"
+
+msgid "home_about"
+msgstr "شرکت تجارت و مدیریت ارمغان سلامت ، تامین کننده انواع تجهیزات پزشکی شامل، ست های ترزیقی، محصولات مراقبت از زخم، مکملهای ورزشی و استومی ها، با سابقه فعالیت درخشان در عرصه صنایع پزشکی کشور به خدمت رسانی مشغول است"
+
+msgid "what_we_do"
+msgstr "چه کاری انجام می دهیم"
+
+msgid "importer_medical_equipment"
+msgstr "وارد کننده تجهیزات پزشکی  از معتبرترین برندهای جهانی"
+
+msgid "advice_and_guidance"
+msgstr "مشاوره و در انتخاب محصولات و برندهای تجهیزات پزشکی"
+
+msgid "the_brands_we_work_with"
+msgstr "برندهایی که نماینده رسمی آن هستیم"
+
+msgid "why_us"
+msgstr "جامعه ای سلامت با ارمغان سلامت"
+
+msgid "why_us_detail"
+msgstr "ما در حال مدیریت شرکت صدور گواهی‌نامه با بیش از ۳۰ سال تخصص هستیم ."
+
+msgid "get_in_touch_with_us"
+msgstr "با ما در تماس باشید!"
+
+msgid "request_file"
+msgstr "فایل رزومه"
+
+msgid "granting_sale_successfully"
+msgstr "درخواست با موفقیت ارسال شد"
+
+msgid "granting_sale_not_successfully"
+msgstr "درخواست ارسال نشد"
+
+msgid "download"
+msgstr "دانلود"
+
+msgid "salesagencies"
+msgstr "لیست درخواست های نمایندگی"
+
+msgid "accept_our_invitation_to_cooperate"
+msgstr "دعوت به همکاری ما را پذیرا باشید"
+
+msgid "employment"
+msgstr "استخدام"
+
+msgid "site_name"
+msgstr "شرکت ارمغات سلامت"
+
+msgid "customer_club"
+msgstr "باشگاه مشتریان"
+
+
+msgid "click_for_registering_in_customer_club"
+msgstr "برای عضویت در باشگاه مشتریان کلیک کنید"
+
+msgid "click_here_to_get_sales_employment_agency"
+msgstr "برای اخذ نمایندگی فروش و استخدام کلیک کنید"
+
+msgid "obtaining_sales_representative"
+msgstr "اخذ نمایندگی فروش"
+
+msgid "ministry_of_Health"
+msgstr "وزارت بهداشت"
+
+msgid "food_and_drug_administration_news_site"
+msgstr "پایگاه خبری سازمان غذا و دارو"
+
+msgid "department_of_medical_devices"
+msgstr "اداره کل تجهیزات پزشکی"
+
+msgid "food_and_drug_administration"
+msgstr "سازمان غذا و دارو"
+
+msgid "comprehensive_trade_organization_of_Iran"
+msgstr "سازمان جامع تجارت ایران"
+
+msgid "change_password_successfull_and_send_for_you"
+msgstr "رمز عبور با موفقیت تغییر کرد و برای شما ارسال شد"
+
+msgid "dont_exist_this_phone_number"
+msgstr "شماره همراه وارد شده وجود ندارد"
+
+msgid "exist_mobile"
+msgstr "شماره موبایل وارد شده وجود دارد"
+
+msgid "resend_sms"
+msgstr "ارسال مجدد"
+
+msgid "your_register_key_in_site"
+msgstr "کد ثبت نام شما در سایت: "
+
+msgid "your_new_password_in_site"
+msgstr "رمز جدید شما در ارمغان سلامت : "
+
+msgid "your_new_password_in_site"
+msgstr "رمز عبور جدید شما در ارمغان سلامت : "
+
+msgid ""
+msgstr ""

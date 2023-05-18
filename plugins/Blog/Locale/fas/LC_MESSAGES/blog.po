@@ -1,0 +1,249 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "blog_plugin_detail"
+msgstr "پلاگین مقالات سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت اترس سیستم"
+
+msgid "blog_list"
+msgstr "ليست مقالات"
+
+msgid "add_blog"
+msgstr "افزودن مقالات"
+
+msgid "edit_blog"
+msgstr "ويرايش مقالات"
+
+msgid "delete_blog"
+msgstr "حذف مقالات"
+
+msgid "blogcomment_list"
+msgstr "ليست کامنت مقالات"
+
+msgid "add_blogcomment"
+msgstr "افزودن کامنت مقالات"
+
+msgid "edit_blogcomment"
+msgstr "ويرايش کامنت مقالات"
+
+msgid "delete_blogcomment"
+msgstr "حذف کامنت مقالات"
+
+msgid "blog_managment"
+msgstr "مديريت مقالات"
+
+msgid "id"
+msgstr "شماره"
+
+msgid "num_viewed"
+msgstr "تعداد بازدید"
+
+msgid "num_new_comment"
+msgstr "تعداد نظرات جدید"
+
+msgid "num_comment"
+msgstr "تعداد نظرات"
+
+msgid "the_blog_has_been_saved"
+msgstr "مقالات با موفقيت ذخيره شد"
+
+msgid "invalid_id_for_blog"
+msgstr "مقالات مورد نظر اشتباه است"
+
+msgid "the_blog_could_not_be_saved"
+msgstr "مقالات ذخيره نشد"
+
+msgid "delete_blog_success"
+msgstr "مقالات با موفقيت حذف شد"
+
+msgid "delete_blog_not_success"
+msgstr "مقالات حذف نشد"
+
+msgid "add_blog"
+msgstr "افزودن مقالات"
+
+msgid "add_new_tag"
+msgstr "افزودن کلمه کلیدی جدید"
+
+msgid "little_detail"
+msgstr "توضیح کوتاه"
+
+msgid "big_body"
+msgstr "ادامه توضیحات"
+
+msgid "file_managment"
+msgstr "مدیریت فایلها"
+
+msgid "the_blog_tag_not_saved"
+msgstr "کلمات کلیدی مقالات ذخیره نشد"
+
+msgid "similar_blog"
+msgstr "مطالب مشابه"
+
+msgid "send_comment"
+msgstr "ارسال نظر"
+
+msgid "type_a_text_to_blog"
+msgstr "نظر جديد به ارسال کنيد"
+
+msgid "loading"
+msgstr "لطفا کمی صبر نمایید ..."
+
+msgid "first_login_for_add_comment"
+msgstr "برای ارسال نظر باید در سایت وارد شوید"
+
+msgid "add_comment_success"
+msgstr "نظر با موفقیت افزوده شد"
+
+msgid "add_comment_notsuccess"
+msgstr "نظر افزوده نشد"
+
+msgid "tag_word"
+msgstr "برچسب"
+
+msgid "blogcomments"
+msgstr "لیست نظرها"
+
+msgid "blog_title"
+msgstr "عنوان مقالات"
+
+msgid "edit_blogcomment"
+msgstr "ویرایش نظر مقالات"
+
+msgid "the_blogcomment_has_been_saved"
+msgstr "نظر مقالات با موفقیت ذخیره شد"
+
+msgid "the_blogcomment_has_been_not_saved"
+msgstr "نظر مقالات ذخیره نشد"
+
+msgid "invalid_id_for_blogcomment"
+msgstr "چنین نظری بابت مقالات وجود ندارد"
+
+msgid "delete_blogcomment_success"
+msgstr "نظر مقالات با موفقیت پاک شد"
+
+msgid "delete_blog_not_success"
+msgstr "نظر مقالات پاک نشد"
+
+msgid "source_link"
+msgstr "لینک منبع"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "توضیحات"
+
+msgid "tag"
+msgstr "برچسب"
+
+msgid "pin"
+msgstr "پین کردن"
+
+msgid "unpin"
+msgstr "حذف پین"
+
+msgid "the_blogpin_has_been_saved"
+msgstr "مقالات مورد نظر با موفقیت پین شد"
+
+msgid "the_blogunpin_has_been_saved"
+msgstr "مقالات مورد نظر با موفقیت از پین خارج شد"
+
+msgid "invalid_id_for_blog"
+msgstr "مقالات مورد نظر اشتباه است"
+
+msgid "the_blog_could_not_be_saved"
+msgstr "مقالات ذخيره نشد"
+
+msgid "delete_blog_success"
+msgstr "مقالات با موفقيت حذف شد"
+
+msgid "delete_blog_not_success"
+msgstr "مقالات حذف نشد"
+
+msgid "blog"
+msgstr "مقالات"
+
+msgid "related_blogs"
+msgstr "نوشته های مرتبط"
+
+msgid "last_blogs"
+msgstr "آخرین مقالات"
+
+msgid "blogcomment_managment"
+msgstr "مدیریت کامنت مقالات"
+
+msgid "weblog"
+msgstr "مقالات"
+
+msgid "continue"
+msgstr "بيشتر بدانيد"
+
+msgid "bestblogs"
+msgstr "پست های محبوب"
+
+msgid "besttags"
+msgstr "ابر برچسب ها"
+
+msgid "blogtag_managment"
+msgstr "مدیریت برچسب"
+
+msgid "blog_tag_search"
+msgstr "جستجوی برچسب"
+
+msgid "slug"
+msgstr "نام انگلیسی"
+
+msgid "date"
+msgstr "تاریخ"
+
+msgid "more"
+msgstr "جزئیات بیشتر"
+
+msgid "the_most_viewed_blogs"
+msgstr "پر بازدید ترین خبرها"
+
+msgid "tags"
+msgstr "برچسب ها"
+
+msgid "news"
+msgstr "مقالات"
+
+msgid "catalog"
+msgstr "کاتالوگ"
+
+msgid "read_all_news"
+msgstr "تمام مقالات را بخوانید"
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+

@@ -1,0 +1,142 @@
+/* CSS Document */
+ 
+.spaceMe
+{
+	width:20px;
+	height:10px;
+}
+.getway
+{
+	width:990px;
+	margin:0 auto;
+	/*padding-top:55px;*/
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:12px;
+}
+.getway2
+{	
+	padding-bottom:20px;
+	min-height:450px;
+	background:#F2F2F2;
+	border:1px solid #CCCCCC;
+	position:relative;
+}
+.getway h1
+{
+	color:#00B22D;
+	width:70%;
+	font-size:17px;
+	font-family:"my";
+	font-weight:100;
+	font-style:normal;
+	margin: 20px 155px 20px 20px;
+	border-bottom:1px dotted #000;
+	font-family: tahoma;
+}
+.getway .card_items_table td{
+	line-height: 25px;
+    text-align: center;
+}
+.getway .card_items_table
+{
+	margin-right:190px;
+	line-height:30px;
+}
+.getway .card_items_table tr:hover
+{
+	/*/background:url(../image/shop_item_hover.png) center bottom no-repeat;*/
+}
+.getway .card_items_table td:nth-child(1) img
+{
+	width:30px;
+	height:30px;
+}
+.getway .card_items_table td:nth-child(4) .cancel
+{
+	width:32px;
+	height:32px;
+	background-image:url(../image/icon/fail.png);
+}
+.getway .card_items_table td:nth-child(4) .cancel:hover
+{
+	cursor:pointer;
+	background-image:url(../image/icon/fail_hover.png);
+}
+.getway .totalPrice
+{
+	width:200px;
+	border-top:1px dotted #060;
+	margin-right:20px;
+	font-weight:bold;
+	padding-right:5px;
+}
+.getway .addressForm
+{
+	margin:50px 152px 0 0 ;
+	background:#FFF;
+	border:1px solid #ccc;
+	border-radius:5px;
+	width:700px;
+	float:right;
+}
+.getway .errorForm
+{
+	margin:50px 152px 0 0 ;
+	background:#febcbc;
+	border:1px solid #fc3232;
+	border-radius:5px;
+}
+.getway .successForm
+{
+	margin:50px 152px 0 0 ;
+	background:#c9febc;
+	border:1px solid #2ccf03;
+	border-radius:5px;
+}
+.getway .addressForm table tr:nth-child(2) img 
+{
+	border:#CCC 2px solid;
+	border-radius:5px;
+	box-shadow:0 0 5px #000;
+	margin:5px;
+}
+.getway .addressForm table tr:nth-child(2) img:hover
+{
+	box-shadow:0 0 5px #008822;
+}
+.getway .addressForm table td:nth-child(1) 
+{
+	width:200px;
+	vertical-align:text-top;
+}
+.getway .addressForm table td:nth-child(2) 
+{
+	width:500px;
+}
+.getway #basket_bar
+{
+	min-height:400px;
+	float:left;
+	height:100%;
+	background:url(../image/tile_basket.jpg) repeat-y;
+	width:230px;
+	position:absolute;
+	top:0;
+	left:0;
+}
+#title
+{
+	background:#ffffff;
+	border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.box{
+	background:#ffffff;
+	border: 1px solid #CCCCCC;
+    border-radius: 5px 5px 5px 5px;
+	padding: 10px;
+	margin: 10px;
+}

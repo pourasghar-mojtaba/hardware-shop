@@ -1,0 +1,156 @@
+﻿msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+
+msgid "company_plugin_detail"
+msgstr "پلاگین شرکت ها سایت"
+
+msgid "plugin_creator"
+msgstr "شرکت اترس سیستم"
+
+msgid "company_managment"
+msgstr "مدیریت شرکت"
+
+msgid "company_list"
+msgstr "لیست شرکت ها"
+
+msgid "add_company"
+msgstr "افزودن شرکت"
+
+msgid "edit_company"
+msgstr "ویرایش شرکت"
+
+msgid "delete_company"
+msgstr "حذف شرکت"
+
+msgid "add_company"
+msgstr "افزودن شرکت"
+
+msgid "company"
+msgstr "شرکت"
+
+msgid "company"
+msgstr "متن شرکت"
+
+msgid "the_company_has_been_saved"
+msgstr "شرکت با موفقیت ذخیره شد"
+
+msgid "the_company_could_not_be_saved_Please_try_again"
+msgstr "شرکت ذخیره نشد دوباره تلاش کنید"
+
+msgid "edit_company"
+msgstr "ویرایش شرکت"
+
+msgid "invalid_company"
+msgstr "شرکت مورد نظر موجود نمی باشد"
+
+msgid "the_company_has_been_deleted"
+msgstr "شرکت با موفقیت پاک شد"
+
+msgid "the_company_could_not_be_deleted_please_try_again"
+msgstr "شرکت حذف نشد لطفا دوباره تلاش بفرمایید"
+
+msgid "user"
+msgstr "کاربر"
+
+msgid "title"
+msgstr "عنوان"
+
+msgid "detail"
+msgstr "جزییات"
+
+msgid "company_images"
+msgstr "تصاویر شرکت"
+
+msgid "add_image"
+msgstr "افزودن تصویر"
+
+msgid "the_company_image_not_saved"
+msgstr "تصویر شرکت ذخیره نشد"
+
+msgid "image_name"
+msgstr "نام تصویر"
+
+msgid "mini_detail"
+msgstr "توضیح مختصر"
+
+msgid "image"
+msgstr "تصویر"
+
+msgid "companies"
+msgstr "شرکت ها"
+
+msgid "arrangment"
+msgstr "ترتیب"
+
+msgid "delete_company_success"
+msgstr "شرکت با موفقیت حدف شد"
+
+msgid "delete_company_not_success"
+msgstr "شرکت حذف نشد"
+
+msgid "url"
+msgstr "لینک"
+
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
+
+msgid ""
+msgstr ""
